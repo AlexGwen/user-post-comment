@@ -1,0 +1,13 @@
+.comm {
+  border: 1px dashed blue;
+  background-color: rgba(187, 247, 200, 0.514);
+  border-radius: 5px;
+  margin: 5px;
+  padding: 10px;
+}
+.comm-h3 {
+  font-size: 16px;
+}
+.comm-p {
+  font-size: 10px;
+}

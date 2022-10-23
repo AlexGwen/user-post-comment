@@ -1,0 +1,35 @@
+body {
+  background-color: grey;
+}
+
+.post {
+  width: 30%;
+  margin: 0 10px;
+  background-color: rgb(0, 88, 131);
+  border-radius: 10px;
+  color: white;
+  padding: 5px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.post-title {
+  font-size: 16px;
+}
+.post-body {
+  font-size: 13px;
+}
+.post-btn {
+  margin-top: 20px;
+}
+.post-dialog {
+}
+.post-comm {
+  padding: 5px;
+  margin-top: 20px;
+  background-color: rgba(255, 255, 255, 0.746);
+  border-radius: 5px;
+  color: black;
+  overflow: scroll;
+  height: 270px;
+}

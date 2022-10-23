@@ -1,0 +1,38 @@
+.user {
+  width: 400px;
+  height: 150px;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.616);
+}
+.user-name {
+  font-size: 20px;
+  font-weight: 800;
+}
+.user-span {
+  margin-top: 5px;
+}
+.user-block {
+}
+.user-btn {
+  margin-top: 10px;
+  border: none;
+  font-size: 16px;
+  border-radius: 5px;
+  width: 70px;
+  height: 25px;
+  background-color: rgb(3, 164, 3);
+}
+.div {
+  margin-top: 10px;
+  justify-content: space-around;
+  background-color: grey;
+  border-radius: 20px;
+  width: 90%;
+}
+.btn {
+  background-color: rgba(191, 0, 0, 0.827);
+}
